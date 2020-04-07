@@ -1,1 +1,1 @@
-some random text to edit and to create conflict
+some different random text compared to the master branch
