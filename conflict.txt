@@ -1,1 +1,2 @@
 some random text to edit and to create conflict
+add some random text to the content
